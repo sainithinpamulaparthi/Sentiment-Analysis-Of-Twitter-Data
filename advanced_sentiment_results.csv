@@ -1,0 +1,81 @@
+id,tweet,topic,timestamp,score,label,subjectivity
+20,Just diversified my portfolio. Feeling smart and secure.,Finance,2026-03-26 23:40:39.051496,0.6808,Positive,0.569
+2,The recent software update BRICKED my laptop. Worst experience ever. smh.,Technology,2026-03-27 13:00:22.143947,-0.7506,Negative,0.416
+13,Inflation data came out exactly as expected. Market reacting neutrally.,Finance,2026-03-27 14:06:15.499831,0.0,Neutral,0.0
+10,Python 3.12 is out. Cool I guess.,Technology,2026-03-27 16:27:08.659193,0.3182,Positive,0.315
+68,Road trip going smoothly so far.,Travel,2026-03-27 18:06:38.098609,0.0,Neutral,0.0
+42,This migraine is killing me. Worst pain ever.,Health,2026-03-28 03:59:31.068845,-0.9153,Negative,0.702
+45,The healthcare system is entirely broken and completely unaffordable.,Health,2026-03-29 04:26:55.070596,-0.5256,Negative,0.298
+8,Loving the new noise-cancellation headphones. 10/10!,Technology,2026-03-29 09:35:39.720585,0.636,Positive,0.456
+27,Ferrari strategy team ruins the race AGAIN. I can't watch this anymore.,Sports,2026-03-29 13:46:31.492451,-0.4404,Negative,0.225
+28,Good defensive play by both teams tonight.,Sports,2026-03-29 16:38:03.115162,0.6597,Positive,0.615
+47,Can't shake off this flu. I feel awful.,Health,2026-03-29 19:43:09.971440,-0.6227,Negative,0.64
+24,My favorite player just tore his ACL. Heartbroken. 😭,Sports,2026-03-31 10:56:37.129922,-0.3182,Negative,0.549
+59,I burnt the toast.,Food,2026-03-31 16:38:53.530241,0.0,Neutral,0.0
+57,The coffee is too bitter for my taste.,Food,2026-03-31 22:13:05.642539,-0.4215,Negative,0.286
+14,Why are gas prices so high right now? This is hurting my wallet.,Finance,2026-04-01 18:09:41.456990,-0.4019,Negative,0.184
+52,Food arrived cold and 2 hours late. Never ordering from here again.,Food,2026-04-02 01:50:36.490170,0.0,Neutral,0.0
+71,The new policy is a fantastic step forward for the community.,Politics,2026-04-02 02:54:21.796986,0.5574,Positive,0.286
+11,Bitcoin is pumping!!! To the moon! 🚀🌕,Finance,2026-04-02 08:25:03.897101,0.0,Neutral,0.0
+17,My bank charged me a $35 overdraft fee for a $2 coffee. I hate them.,Finance,2026-04-02 09:42:56.358739,-0.6705,Negative,0.355
+4,My wifi has been down for 3 hours. I am losing my mind! 😡,Technology,2026-04-02 11:42:36.499692,-0.4389,Negative,0.224
+43,Just had my annual checkup. Everything is normal.,Health,2026-04-02 15:05:06.596899,0.0,Neutral,0.0
+67,Public transport in this city is so inefficient and dirty.,Travel,2026-04-02 15:54:46.868941,-0.4877,Negative,0.26
+46,Started doing yoga every morning. It's truly life-changing! 🧘‍♀️,Health,2026-04-02 18:36:28.243858,0.4926,Positive,0.285
+80,The economic policies are completely destroying the middle class.,Politics,2026-04-03 04:34:12.766353,-0.5984,Negative,0.327
+79,Proud to see peaceful protests making a real difference.,Politics,2026-04-03 17:42:43.657973,0.6597,Positive,0.621
+53,"Tried the new sushi place. It was okay, a bit overpriced.",Food,2026-04-03 19:13:20.781161,0.2263,Positive,0.174
+70,Terrible jet lag today. Can barely keep my eyes open.,Travel,2026-04-03 19:46:18.616939,-0.6705,Negative,0.407
+3,ChatGPT is kinda scary but incredibly useful for coding.,Technology,2026-04-04 01:01:10.259623,0.5165,Positive,0.471
+48,Ate a salad for lunch. Healthy living.,Health,2026-04-04 03:08:21.845671,0.4019,Positive,0.351
+44,Mental health days are so important. Glad I took time to rest.,Health,2026-04-04 11:21:27.868067,0.6853,Positive,0.385
+74,I am so frustrated by the lack of action on climate change.,Politics,2026-04-05 05:33:59.333440,-0.7178,Negative,0.4
+69,"The hiking trail had stunning views, highly recommend it.",Travel,2026-04-05 06:07:28.566979,0.659,Positive,0.435
+26,"The new stadium looks fantastic, great atmosphere.",Sports,2026-04-05 21:20:47.327342,0.8271,Positive,0.606
+23,"Arsenal played a decent game, ending in a 1-1 draw.",Sports,2026-04-05 23:58:43.605225,0.34,Positive,0.255
+50,Drinking water and minding my business.,Health,2026-04-06 17:40:39.274300,0.0,Neutral,0.0
+51,This pizza is literally the best thing I've ever eaten in my life 🍕🔥,Food,2026-04-06 21:31:43.333177,0.6369,Positive,0.244
+35,Listening to the new album. It has some good tracks and some skips.,Entertainment,2026-04-07 03:32:35.372134,0.4404,Positive,0.195
+60,Excellent service and magnificent steaks at the steakhouse tonight.,Food,2026-04-07 04:12:22.771446,0.8225,Positive,0.521
+76,Very inspiring speech by the mayor today.,Politics,2026-04-07 15:51:12.153959,0.4754,Positive,0.34
+9,Tech support took 45 minutes to answer. Unacceptable.,Technology,2026-04-08 10:46:55.623034,-0.0772,Negative,0.487
+78,Local council meeting was largely uneventful.,Politics,2026-04-09 13:22:18.268317,0.0,Neutral,0.0
+12,Lost 50% of my portfolio today. I am devastated and ruined.,Finance,2026-04-10 22:51:15.173174,-0.8555,Negative,0.573
+33,The season finale of Succession was a masterpiece. Brilliant writing.,Entertainment,2026-04-11 21:04:57.479461,0.8658,Positive,0.618
+16,Stock market is extremely volatile today. Proceed with caution.,Finance,2026-04-12 03:21:22.584134,0.0,Neutral,0.0
+36,"The concert was ALRIGHT, but the acoustics in that arena are terrible.",Entertainment,2026-04-12 08:28:03.582670,-0.5079,Negative,0.376
+63,"The hotel is average, but the location is convenient.",Travel,2026-04-12 12:00:08.002274,0.0,Neutral,0.0
+40,Incredible performance by the lead actor. Oscar worthy!,Entertainment,2026-04-13 02:41:31.026916,0.4926,Positive,0.313
+18,Solid earnings report from Microsoft today. Very promising.,Finance,2026-04-13 11:16:10.919016,0.5563,Positive,0.434
+30,Ticket prices for the playoffs are a total scam.,Sports,2026-04-13 21:40:52.139713,-0.5719,Negative,0.346
+56,Baking cookies on a rainy afternoon. The house smells wonderful.,Food,2026-04-14 01:34:21.833099,0.5267,Positive,0.417
+38,Just watching TV.,Entertainment,2026-04-14 08:19:57.464538,0.0,Neutral,0.0
+49,Hospital wait times are ridiculously long. Waited 6 hours in the ER.,Health,2026-04-14 20:41:28.345943,-0.34,Negative,0.194
+1,I absolutely LOVE the new iPhone!!! The battery life is insane 😍,Technology,2026-04-14 23:23:08.528013,0.6599,Positive,0.524
+62,Flight cancelled again. Stranded at the airport. I hate this airline.,Travel,2026-04-14 23:47:53.643952,-0.6908,Negative,0.416
+55,Found a hair in my soup. Absolutely disgusting! 🤢,Food,2026-04-15 05:35:01.984969,-0.6105,Negative,0.399
+15,Just paid off my student loans! Best feeling in the world! 🎉,Finance,2026-04-15 06:54:54.729135,0.7418,Positive,0.411
+75,The debate last night was an absolute trainwreck.,Politics,2026-04-15 10:54:51.286854,0.0,Neutral,0.0
+6,"Who thought this UI update was a good idea? It is complete garbage, but the backend is fast.",Technology,2026-04-16 02:13:19.337810,0.2382,Positive,0.109
+64,Lost my luggage! This vacation is turning into a nightmare.,Travel,2026-04-16 07:55:14.404976,-0.3802,Negative,0.245
+22,The referee completely rigged that match. Disgusting bias.,Sports,2026-04-16 17:39:31.578219,-0.7645,Negative,0.603
+41,Feeling so much better today! The medication finally kicked in 💊,Health,2026-04-16 22:17:24.465879,0.6086,Positive,0.383
+58,Spicy ramen is exactly what I needed today. Perfect.,Food,2026-04-17 15:58:10.926697,0.5719,Positive,0.346
+32,I fell asleep watching the new sci-fi flick. So boring and drawn out.,Entertainment,2026-04-17 16:24:19.057520,-0.3804,Negative,0.191
+5,Just bought a new mechanical keyboard. It clicks nicely.,Technology,2026-04-17 21:15:27.653523,0.4404,Positive,0.293
+66,The beach is so relaxing. Pure bliss.,Travel,2026-04-19 01:43:06.037138,0.8434,Positive,0.618
+21,WHAT A GAME!!! Unbelievable buzzer beater to win the championship! 🏆,Sports,2026-04-19 23:11:17.767161,0.8647,Positive,0.617
+31,That new Marvel movie was phenomenal! The CGI was top notch ✨,Entertainment,2026-04-20 00:07:50.750737,0.5983,Positive,0.352
+19,Taxes are confusing.,Finance,2026-04-20 01:47:18.010119,-0.2263,Negative,0.487
+37,Tickets secured for Taylor Swift!!! I AM CRYING 😭❤️,Entertainment,2026-04-20 16:10:11.156154,-0.298,Negative,0.648
+65,Just booked my tickets to Japan! So excited! 🇯🇵,Travel,2026-04-21 01:51:06.443542,0.5068,Positive,0.291
+29,LeBron is still dominating at his age. Absolute GOAT. 🐐,Sports,2026-04-21 05:11:39.663983,-0.296,Negative,0.216
+39,The book was much better than the movie. Disappointed.,Entertainment,2026-04-21 15:25:38.552016,-0.0516,Negative,0.462
+73,Voting today. Civic duty complete.,Politics,2026-04-22 01:58:59.154227,0.0,Neutral,0.0
+7,"Apple event was okay. Nothing groundbreaking, just iterative updates.",Technology,2026-04-22 13:22:03.705901,0.2263,Positive,0.192
+77,Taxes are going up again. Great. Just great. 🙄,Politics,2026-04-23 05:28:21.619017,0.8481,Positive,0.577
+54,I could eat tacos every single day and never get tired of them.,Food,2026-04-23 21:23:22.957761,0.3412,Positive,0.179
+72,These politicians are all corrupt liars. Disgraceful.,Politics,2026-04-24 01:53:36.245966,-0.5267,Negative,0.362
+25,Just finished a 10k run! Feeling exhausted but amazing! 🏃‍♂️,Sports,2026-04-24 12:11:30.549570,0.7418,Positive,0.594
+34,Why did they cancel my favorite show? Network executives are clueless.,Entertainment,2026-04-24 23:38:30.326645,-0.128,Negative,0.484
+61,Paris is breathtakingly beautiful. Having the time of my life! ✈️🗼,Travel,2026-04-25 11:27:18.791260,0.636,Positive,0.295
